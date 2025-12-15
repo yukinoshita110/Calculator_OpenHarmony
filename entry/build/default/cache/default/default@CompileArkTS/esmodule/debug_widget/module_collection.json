@@ -1,0 +1,5 @@
+{
+  "entry\\src\\main\\ets\\model\\Logger.ets": [
+    "ohos.hilog"
+  ]
+}

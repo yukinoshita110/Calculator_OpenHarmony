@@ -1,0 +1,25 @@
+{
+  "entry\\src\\main\\ets\\calc\\pages\\CardCalc.ets": [
+    "Column",
+    "Stack",
+    "Text",
+    "Row",
+    "ForEach",
+    "Button",
+    "Image",
+    "If"
+  ],
+  "entry\\src\\main\\ets\\entryability\\EntryAbility.ets": [
+    "If"
+  ],
+  "entry\\src\\main\\ets\\pages\\Index.ets": [
+    "Column",
+    "Stack",
+    "Text",
+    "Row",
+    "ForEach",
+    "Button",
+    "Image",
+    "If"
+  ]
+}
